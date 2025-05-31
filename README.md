@@ -2,7 +2,7 @@ DOM (Document Object Model)
 
 What does DOM stand for?
 
-a) Document Object Model /n
+a) Document Object Model
 b) Data Object Model
 c) Digital Object Mapper
 d) Display Output Model
